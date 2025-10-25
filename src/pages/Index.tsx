@@ -47,7 +47,6 @@ const Index = () => {
     { name: "Python", icon: FaPython, color: "#3776AB" },
     { name: "React", icon: FaReact, color: "#61DAFB" },
     { name: "C", icon: SiC, color: "#A8B9CC" },
-    { name: "Django", icon: SiDjango, color: "#092E20" },
   ];
 
   const projects = [
