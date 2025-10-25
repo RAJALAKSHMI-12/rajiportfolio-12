@@ -91,6 +91,16 @@ const Index = () => {
 
   const achievements = [
     {
+      title: "HackerRank Achievements",
+      description: "Active problem solver on HackerRank with strong coding skills",
+      year: "2024"
+    },
+    {
+      title: "CodeChef Participation",
+      description: "Regular participant in CodeChef contests and challenges",
+      year: "2024"
+    },
+    {
       title: "Symposium Presentation",
       description: "Presented on a technical topic at college symposium",
       year: "2024"
