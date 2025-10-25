@@ -14,7 +14,8 @@ import {
   FaPython, 
   FaReact,
   FaDownload,
-  FaArrowRight
+  FaArrowRight,
+  FaProjectDiagram
 } from "react-icons/fa";
 import { SiC, SiDjango } from "react-icons/si";
 import profileImage from "@/assets/profile.jpg";
@@ -47,6 +48,7 @@ const Index = () => {
     { name: "Python", icon: FaPython, color: "#3776AB" },
     { name: "React", icon: FaReact, color: "#61DAFB" },
     { name: "C", icon: SiC, color: "#A8B9CC" },
+    { name: "DSA", icon: FaProjectDiagram, color: "#00D9FF" },
   ];
 
   const projects = [
