@@ -109,6 +109,12 @@ const Index = () => {
       tech: ["Django", "HTML", "CSS", "JavaScript"],
       status: "completed"
     },
+    {
+      title: "Fake News Detector",
+      description: "A smart ML-powered tool I built to tackle misinformation! Using Natural Language Processing and TF-IDF algorithms, it analyzes news articles to determine their authenticity. This project combines my love for AI with real-world problem-solving to help people navigate information more confidently.",
+      tech: ["Python", "NLP", "TF-IDF", "Machine Learning"],
+      status: "completed"
+    },
   ];
 
   const achievements = [
